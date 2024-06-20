@@ -25,7 +25,7 @@
 <p align="left"> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
- alt="html5" width="40" height="40"/> </a>
+ alt="html5" width="40" height="40" /> </a>
 
 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
@@ -38,7 +38,7 @@
 
 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+<img src="https://th.bing.com/th/id/R.97b905be5c0d92d003e00825faf1e39b?rik=hVVVbWP%2bbYvfhA&riu=http%3a%2f%2fwww.cswalliance.com%2fimages%2fclients%2fbootstrap.png&ehk=zCkIoILyz7n9ZKmDQhPFJ6EQh7woIMgMUB8O9OGGKkU%3d&risl=&pid=ImgRaw&r=0"
  alt="bootstrap" width="40" height="40"/></a> 
 
 
@@ -53,7 +53,7 @@
 
 
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
- <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
+ <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/nextjs-icon.png"
  alt="nextjs" width="40" height="40"/> </a>
 
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
@@ -62,7 +62,7 @@
 
 
 <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+<img src="https://th.bing.com/th/id/OIP.bUAoC5BwqokM5cu9w1Yc0QHaHa?rs=1&pid=ImgDetMain"
  alt="express" width="40" height="40"/> </a>
 
 
@@ -102,7 +102,7 @@
 
 
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Adobe_Photoshop_CS6_icon.svg"
  alt="photoshop" width="40" height="40"/> </a>
 
 
