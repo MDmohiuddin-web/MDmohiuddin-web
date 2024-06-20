@@ -1,4 +1,4 @@
-[![MasterHead](https://static.vecteezy.com/system/resources/previews/009/331/141/non_2x/capacity-building-banner-web-icon-illustration-concept-with-an-icon-of-training-learning-knowledge-skills-coaching-support-and-development-free-vector.jpg)]
+![MasterHead](https://static.vecteezy.com/system/resources/previews/009/331/141/non_2x/capacity-building-banner-web-icon-illustration-concept-with-an-icon-of-training-learning-knowledge-skills-coaching-support-and-development-free-vector.jpg)
 
 <h1 align="center">Hi 👋, I'm mohiuddin</h1>
 <h3 align="center">Passionate Frontend Developer | MERN Stack Enthusiast | Crafting Seamless Web Experiences | HTML, Tailwind CSS, JavaScript, React | Let’s connect and build amazing things together </h3>
