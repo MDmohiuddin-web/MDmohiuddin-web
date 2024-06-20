@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0BE890&random=false&width=435&lines=Frontend+Developer_;MERN+Stack+Developer_;Jr.Fullstack+Developer_)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=roboto&weight=600&size=30&pause=1000&color=0BE890&random=false&width=435&lines=Frontend+Developer_;MERN+Stack+Developer_;Jr.Fullstack+Developer_)](https://git.io/typing-svg)
 <h1 align="left">Hi There, I'm Mohiuddin</h1>
 
 <h3 align="left">Passionate Frontend Developer | MERN Stack Enthusiast |</Br> Crafting Seamless Web Experiences | HTML, Tailwind CSS,</Br> JavaScript, React | Let’s connect and build amazing things </Br> together </h3>
