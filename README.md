@@ -1,3 +1,6 @@
+
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=roboto&weight=600&size=30&pause=1000&color=0BE890&random=false&width=435&lines=Frontend+Developer_;MERN+Stack+Developer_;Jr.Fullstack+Developer_)](https://git.io/typing-svg)
 <h1 align="left">Hi There, I'm Mohiuddin</h1>
 
@@ -122,6 +125,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdmohiuddin-web&show_icons=true&locale=en"
  alt="mdmohiuddin-web" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdmohiuddin-web&" alt="mdmohiuddin-web" /></p>
+<p><img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=mdmohiuddin-web&" alt="mdmohiuddin-web" /></p>
+
+<p><img align="center"  src="https://static.vecteezy.com/system/resources/previews/009/331/141/non_2x/capacity-building-banner-web-icon-illustration-concept-with-an-icon-of-training-learning-knowledge-skills-coaching-support-and-development-free-vector.jpg" alt="banner" /></p>
 
 <p><img align="center" src="https://webgyaani.com/wp-content/uploads/2018/03/10-Beautiful-Animated-CSS-SVG-Landscape-Designs-1.gif" alt="mdmohiuddin-web" /></p>
