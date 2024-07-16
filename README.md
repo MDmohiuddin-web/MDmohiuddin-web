@@ -124,8 +124,10 @@
 
 <p><img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=mdmohiuddin-web&" alt="mdmohiuddin-web" /></p>
 
+<p><img align="center"  src="https://th.bing.com/th/id/R.8b35fef55fba1a201c9c7a11d3ec3d64?rik=yzc%2fGil95nArtA&pid=ImgRaw&r=0" alt="banner" /></p>
+
 <p><img align="center"  src="https://media.licdn.com/dms/image/D4E16AQHE4_akqn2Vfw/profile-displaybackgroundimage-shrink_350_1400/0/1719347026448?e=1726704000&v=beta&t=7FUlryu8PbHsfZYvz7jGmSmxHf_Dzh1agUxDrYTJ-AA" alt="banner" /></p>
 
-<p><img align="center"  src="https://static.vecteezy.com/system/resources/previews/009/331/141/non_2x/capacity-building-banner-web-icon-illustration-concept-with-an-icon-of-training-learning-knowledge-skills-coaching-support-and-development-free-vector.jpg" alt="banner" /></p>
+
 
 <p><img align="center" src="https://webgyaani.com/wp-content/uploads/2018/03/10-Beautiful-Animated-CSS-SVG-Landscape-Designs-1.gif" alt="mdmohiuddin-web" /></p>
