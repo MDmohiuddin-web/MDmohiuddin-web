@@ -22,7 +22,7 @@
 
 - ⚡ Fun fact **I think I'm Funny**
 
-<h3 align="left">if (brain !== null && brain !== undefined && brain !== "empty")</Br> {</Br>
+<h3 align="left">if (brain !== null &&  brain !== "empty")</Br> {</Br>
  console.log(" Brain is active! Keep coding like a pro! ");
 </Br>}</Br> else</Br> {</Br>
   console.log(" Brain needs a boost! Time to order some coffee! ");
