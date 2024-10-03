@@ -1,7 +1,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=roboto&weight=600&size=30&pause=1000&color=0BE890&random=false&width=435&lines=Frontend+Developer_;MERN+Stack+Developer_;Jr.Fullstack+Developer_)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=roboto&weight=600&size=30&pause=1000&color=0BE890&random=false&width=435&lines=Frontend+Developer_;Fullstack+Developer_;MERN+Stack+Developer_;)](https://git.io/typing-svg)
 <h1 align="left">Hi There, I'm Mohiuddin</h1>
 
 <h3 align="left">Passionate Frontend Developer | MERN Stack Enthusiast |</Br> Crafting Seamless Web Experiences | HTML, Tailwind CSS,</Br> JavaScript, React | Let’s connect and build amazing things </Br> together </h3>
@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdmohiuddin-web&label=Profile%20views&color=0e75b6&style=flat" alt="mdmohiuddin-web" /> </p>
 
-- 🌱 I’m currently learning **React,Next.js**
+- 🌱 I’m currently learning **Next.js,typescript **
 
 - 👨‍💻 All of my projects are available at .......   
  **https://mohi-portfolio.netlify.app**
@@ -22,12 +22,8 @@
 
 - ⚡ Fun fact **I think I'm Funny**
 
-<h3 align="left">if (brain !== null &&  brain !== "empty")</Br> {</Br>
- console.log(" Brain is active! Keep coding like a pro! ");
-</Br>}</Br> else</Br> {</Br>
-  console.log(" Brain needs a boost! Time to order some coffee! ");
-</Br>}
- </h3>
+
+<a href="https://app.daily.dev/mdmohiuddin"><img src="https://api.daily.dev/devcards/v2/EaAOUEuOiOYZscNNJuGot.png?type=default&r=fbp" width="356" alt="MD Mohi Uddin's Dev Card"/></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
