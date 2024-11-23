@@ -71,6 +71,10 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
  alt="mongodb" width="40" height="40"/> </a>
 
+ <a href="https://mongoosejs.com/docs" target="_blank" rel="noreferrer"> 
+<img src="https://asset.jarombek.com/logos/mongoose.png"
+ alt="mongodb" width="40" height="40"/> </a>
+
 
 <a href="https://expressjs.com" target="_blank" rel="noreferrer">
 <img src="https://th.bing.com/th/id/OIP.bUAoC5BwqokM5cu9w1Yc0QHaHa?rs=1&pid=ImgDetMain"
