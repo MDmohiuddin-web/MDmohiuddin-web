@@ -81,8 +81,8 @@
 
 
 <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-<img src="https://th.bing.com/th/id/OIP.bUAoC5BwqokM5cu9w1Yc0QHaHa?rs=1&pid=ImgDetMain"
- alt="express" width="40" height="40"/> </a>
+<img src="https://i.pinimg.com/originals/5c/46/70/5c4670d1a27aef4e7084d0806af65dac.png"
+ alt="express" width="60" height="40"/> </a>
 
 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer">
@@ -127,7 +127,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdmohiuddin-web&show_icons=true&locale=en"
  alt="mdmohiuddin-web" /></p>
 
-<p><img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=mdmohiuddin-web&" alt="mdmohiuddin-web" /></p>
+<p><img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=mdmohiuddin-web" alt="mdmohiuddin-web" /></p>
 
 <p><img align="center"  src="https://th.bing.com/th/id/R.8b35fef55fba1a201c9c7a11d3ec3d64?rik=yzc%2fGil95nArtA&pid=ImgRaw&r=0" alt="banner" /></p>
 
