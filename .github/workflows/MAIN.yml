@@ -28,6 +28,3 @@ jobs:
         git add dist/github-contribution-grid-snake.*
         git commit -m 'Generate snake game'
         git push https://${{ secrets.GITHUB_TOKEN }}@github.com/MDmohiuddin-web/MDmohiuddin-web.git master --force
-
-    - name: Debug: List files in dist directory
-      run: ls -la dist
