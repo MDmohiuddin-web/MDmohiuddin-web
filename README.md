@@ -127,7 +127,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdmohiuddin-web&show_icons=true&locale=en"
  alt="mdmohiuddin-web" /></p>
 
-<p><img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=mdmohiuddin-web" alt="mdmohiuddin-web" /></p>
+
+<p><img align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=MDmohiuddin-web" alt="mdmohiuddin-web" /></p>
 
 <p><img align="center"  src="https://th.bing.com/th/id/R.8b35fef55fba1a201c9c7a11d3ec3d64?rik=yzc%2fGil95nArtA&pid=ImgRaw&r=0" alt="banner" /></p>
 
