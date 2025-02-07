@@ -40,7 +40,7 @@
 
 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Official_CSS_Logo.svg"
  alt="css3" width="40" height="40"/> </a> 
 
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
@@ -50,7 +50,7 @@
 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
 <img src="https://th.bing.com/th/id/R.97b905be5c0d92d003e00825faf1e39b?rik=hVVVbWP%2bbYvfhA&riu=http%3a%2f%2fwww.cswalliance.com%2fimages%2fclients%2fbootstrap.png&ehk=zCkIoILyz7n9ZKmDQhPFJ6EQh7woIMgMUB8O9OGGKkU%3d&risl=&pid=ImgRaw&r=0"
- alt="bootstrap" width="40" height="40"/></a> 
+ alt="bootstrap" width="80" height="40"/></a> 
 
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
@@ -78,11 +78,15 @@
  <a href="https://mongoosejs.com/docs" target="_blank" rel="noreferrer"> 
 <img src="https://asset.jarombek.com/logos/mongoose.png"
  alt="mongodb" width="40" height="40"/> </a>
+ 
+ <a href="" target="_blank" rel="noreferrer"> 
+<img src="https://th.bing.com/th/id/R.1422944bd0e2453d6a2588f7ee305e6c?rik=DCQBmrX16yn13A&riu=http%3a%2f%2fblogs.powercode.id%2fwp-content%2fuploads%2f2022%2f09%2ffirebase3.png&ehk=WNZyhzq%2bgco2pRc50QvTZSxVcXufW2%2f29KPZ5Z6S26A%3d&risl=&pid=ImgRaw&r=0"
+ alt="mongodb" width="80" height="40"/> </a>
 
 
 <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-<img src="https://i.pinimg.com/originals/5c/46/70/5c4670d1a27aef4e7084d0806af65dac.png"
- alt="express" width="60" height="40"/> </a>
+<img src="https://th.bing.com/th/id/OIP.HTy1M1eFC7GoW6odSukQVwHaCe?rs=1&pid=ImgDetMain"
+ alt="express" width="100" height="40"/> </a>
 
 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer">
