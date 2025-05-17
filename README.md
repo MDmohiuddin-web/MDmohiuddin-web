@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning ** TypeScript, Express, MongoDB, Mongoose, DBMS, SQL, PostgreSQL, Prisma, and more to master the technologies that are shaping the future.**
 
 - 👨‍💻 All of my projects are available at .......   
- **https://mohiuddin-portfolio.vercel.app**
+ **https://mohiuddin-portfoliov2.netlify.app/**
 
 - 💬 Ask me about **MERN**
 
