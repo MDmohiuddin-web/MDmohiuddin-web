@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdmohiuddin-web&label=Profile%20views&color=0e75b6&style=flat" alt="mdmohiuddin-web" /> </p>
 
-- 🌱 I’m currently learning ** TypeScript, Express, MongoDB, Mongoose, DBMS, SQL, PostgreSQL, Prisma, and more to master the technologies that are shaping the future.**
+- 🌱 I’m currently learning **  DBMS, SQL, PostgreSQL, Prisma, and more to master the technologies that are shaping the future.**
 
 - 👨‍💻 All of my projects are available at .......   
  **https://mohiuddin-portfoliov2.netlify.app/**
