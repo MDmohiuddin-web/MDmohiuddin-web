@@ -22,7 +22,7 @@ JavaScript • TypeScript • Node.js • Tailwind CSS
   **https://mohiuddin-portfoliov2.netlify.app**  
 - 💬 Ask me about **React, Next.js, Node.js, MongoDB, PostgreSQL, REST APIs**  
 - 📫 Reach me at: **mohiu5204@gmail.com**  
-- ⚡ Fun fact: **I think I'm funny 😄**
+- ⚡ Fun fact: **I think I'm Not funny 😄**
 
 ---
 
